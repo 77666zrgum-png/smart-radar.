@@ -3,6 +3,7 @@
     "name": "smart-radar",
     "slug": "privacy-scanner-gkd8orwneof7j9kxbhtov",
     "version": "1.0.0",
+    "owner": "cameradetector",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -35,3 +36,4 @@
     }
   }
 }
+
