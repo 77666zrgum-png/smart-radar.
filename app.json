@@ -15,7 +15,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.smartradar.app"
     },
     "android": {
       "adaptiveIcon": {
@@ -34,4 +35,3 @@
     }
   }
 }
-
