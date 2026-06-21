@@ -9,11 +9,8 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "splash": {
-      "backgroundColor": "#ffffff"
-    },
     "android": {
-      "package": "com.smartradar.appnew"
+      "package": "com.smartradar.app"
     },
     "extra": {
       "eas": {
@@ -22,3 +19,4 @@
     }
   }
 }
+
